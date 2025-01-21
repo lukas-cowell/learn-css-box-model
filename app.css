@@ -18,8 +18,13 @@ h1 {
 
 #two {
     background-color: #ffafcc;
+    border-color: #bde0fe;
+    border-width: 5px;
+    border-style: inset;
 }
 
 #three {
     background-color: #cdb4db;
+    border-left: #023047 solid 10px;
+
 }
