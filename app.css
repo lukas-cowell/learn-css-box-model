@@ -5,6 +5,18 @@ div {
 }
 
 h1 {
-    background-color: pink;
+    background-color: #dda15e;
     width: 100px;
+}
+
+#one {
+    background-color: #ffc8dd;
+}
+
+#two {
+    background-color: #ffafcc;
+}
+
+#three {
+    background-color: #cdb4db;
 }
