@@ -32,3 +32,12 @@ h1 {
     border-radius: 10px 30px;
 
 }
+
+button {
+    background-color: #a2d2ff;
+    padding: 5px 40px;
+    border: #780000 solid;
+    border-width: 10px;
+    border-radius: 10%;
+
+}
