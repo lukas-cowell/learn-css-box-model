@@ -58,3 +58,8 @@ h1 {
     background-color: palegoldenrod;
     border: 1px black solid;
 }
+
+span {
+    background-color: paleturquoise;
+    border: 1px solid black;
+}
