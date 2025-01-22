@@ -68,5 +68,6 @@ span {
 #inline {
     background-color: hotpink;
     border: 1px black solid;
-    padding: 30px;
+    padding: 0 50px 0;
+    display: inline-block;
 }
