@@ -8,7 +8,7 @@ div {
     background-color: #dda15e;
 }
 
-h1 {
+#hello {
     background-color: #dda15e;
     width: 100px;
     padding: 20px 0 0 110px;
@@ -52,4 +52,9 @@ button {
     margin-left: 40px;
     margin-top: 15px;
 
+}
+
+h1 {
+    background-color: palegoldenrod;
+    border: 1px black solid;
 }
