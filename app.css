@@ -64,3 +64,9 @@ span {
     background-color: paleturquoise;
     border: 1px solid black;
 }
+
+#inline {
+    background-color: hotpink;
+    border: 1px black solid;
+    padding: 30px;
+}
