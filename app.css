@@ -91,3 +91,11 @@ span {
 #articletext {
     font-size: 0.8em;
 }
+
+#rems h2 {
+    font-size: 2rem;
+}
+
+#rems p {
+    font-size: 1.2rem;
+}
