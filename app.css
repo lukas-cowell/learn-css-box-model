@@ -109,3 +109,9 @@ section {
     height: 500px;
     background-color: magenta;
 }
+
+#rgba {
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
