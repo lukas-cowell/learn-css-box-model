@@ -113,6 +113,7 @@ section {
 #rgba {
     width: 50%;
     height: 50%;
+    /* The alpha channel alters the opacity of the background color, but it leaves the text inside alone */
     background-color: rgba(255, 255, 255, 0.6);
 }
 
@@ -120,4 +121,6 @@ section {
     width: 50%;
     height: 50%;
     background-color: yellow;
+    /* This will make the div opacity change, however, it will also alter the opacity of the text inside */
+    opacity: 50%;
 }
